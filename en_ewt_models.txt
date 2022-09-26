@@ -1,0 +1,4 @@
+"Can't upload pre trained models due to its high size. You can use below python commands to download those"
+
+import stanza
+stanza.download('en')  # This downloads the English models for the neural pipeline
